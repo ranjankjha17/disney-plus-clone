@@ -2,8 +2,7 @@
 
 
 
-## Description
 This is the ReactJS Disney Plus Clone
 
-## Build it today!
+
 
